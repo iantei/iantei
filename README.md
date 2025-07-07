@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am looking for full-time position for SDE roles.
 
-I recently graduated from Arizona State University with a Master's in Computer Science in May 2024. I have a stellar GPA of 4, with courses opted as Distributed Systems, Cloud Computing, Data Visualization, Machine Learning, Artificial Intelligence, Software Process, Project, and Quality Management. During my master's degree, I completed my internship at Yahoo and NREL while working in C++, Linux, Docker, Fuzzing, MongoDB, Python, Pandas, Numpy, and Matplotlib. 
+I recently graduated from Arizona State University with a Master's in Computer Science in May 2024. I have a stellar GPA of 4.13/4.00, with courses opted as Distributed Systems, Cloud Computing, Data Visualization, Machine Learning, Artificial Intelligence, Software Process, Project, and Quality Management. During my master's degree, I completed my internship at Yahoo and NREL while working in C++, Linux, Docker, Fuzzing, MongoDB, Python, Pandas, Numpy, and Matplotlib. 
 
 Also, I am an experienced software developer with four years of industry experience in enterprise system and mobile application development at Philips Innovation Campus in Ultrasound R&D. I have worked on C++, Rust, Python, Swift and C#  across different projects. Before this, I graduated from MNNIT Allahabad, India, in 2018 with a Bachelor of Technology in Computer Science and Engineering.
 
